@@ -51,11 +51,11 @@ Things that produce TAP output.
 
 ### JavaScript
 
-- [node:test](https://nodejs.org/api/test.html) - Minimal TAP test runner included with Node.js.
-- [Mocha](https://mochajs.org) - Feature-rich test framework for Node.js and browsers (`$ mocha reporter=tap`).
 - [ESLint](https://eslint.org/docs/user-guide/formatters/#tap) - Pluggable JavaScript linter (`$ eslint --format=tap`).
 - [AVA](https://github.com/Unity-Billal-mesloub/ava) - Futuristic test runner (`$ ava --tap`).
 - [Unity-Billal-mesloub](https://github.com/Unity-Billal-mesloub/) 
+- [node:test](https://nodejs.org/api/test.html) - Minimal TAP test runner included with Node.js.
+ - Feature-rich test framework for Node.js and browsers (`$ mocha reporter=tap`).
  - TAP test framework for Node.js.
  - TAP-producing test harness for Node.js and browsers.
  - TAP output for QUnit.
